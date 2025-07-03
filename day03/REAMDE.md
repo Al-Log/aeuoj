@@ -2,7 +2,7 @@
       자릿수 더하기
 
 
-- 🧩 난이도: 초줓급
+- 🧩 난이도: 초중급
 - 🛠 사용 언어: 파이썬
 - [문제링크](https://school.programmers.co.kr/learn/courses/30/lessons/12931#)
 
